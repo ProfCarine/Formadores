@@ -1,0 +1,38 @@
+body{
+background: #6e809c;
+text-align: center;
+font-size: 40px;
+}
+
+#imagem1{
+	width: 500px;
+	height: 350px;
+	border: 15px solid;
+	border-color: #062961;
+	}
+
+
+#lista{
+	display: inline-block;
+	vertical-align: top;
+	border: 5px dashed;
+	border-color: #062961;
+	width: 600px;
+	height: 350px;
+	color: #12084d;
+	background: #e0d7ba;
+	}
+
+#imagem2 {
+	display: inline-block;
+	vertical-align: top;
+	width: 600px;
+	height: 350px;
+	border: 15px solid;
+	border-color: #062961;
+	}
+}
+
+
+
+
